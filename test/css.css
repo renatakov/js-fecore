@@ -1,0 +1,19 @@
+.startBlock{
+  width: 100%;
+  height: 600px;
+  background-color: burlywood;
+}
+
+.startTest{
+  width: 100%;
+  height: 600px;
+  background-color: green;
+}
+
+.test{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 600px;
+}
